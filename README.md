@@ -53,3 +53,44 @@ execute it and submit the source code through Github.
 1. Open a terminal in the week02 directory.
 2. Compile using javac HelloWorld.java
 3. Run using java HelloWorld.
+
+## Week 3: Variables, Data Types, Expressions and Input/Output
+
+### Objectives
+- Declare and initialize Java variables.
+- Use appropriate Java data types.
+- Perform arithmetic calculations.
+- Read keyboard input using Scanner.
+- Display formatted output.
+- Compile, test and submit Java programs.
+
+### Programs
+
+1. week03/SimpleCalculator.java
+- Performs arithmetic calculations on two numbers.
+
+2. week03/AverageCalculator.java
+- Calculates the total and average of three scores.
+
+3. week03/ItemCost.java
+- Calculates the total cost using quantity and unit price.
+
+### How to Run
+
+Open a terminal in the week03 directory.
+
+Simple Calculator:
+- javac SimpleCalculator.java
+- java SimpleCalculator
+
+Average Calculator:
+- javac AverageCalculator.java
+- java AverageCalculator
+
+Item Cost:
+- javac ItemCost.java
+- java ItemCost
+
+### Testing
+Test each program with different inputs
+and verify that the results are correct.
